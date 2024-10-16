@@ -35,8 +35,9 @@ The main challenge encountered during the development of Dreamday Planner was th
 2. Download and install XAMPP on your PC.
 3. Create a folder named wedding in this location C:\xampp\htdocs\wedding
 4. Copy and paste all the items from the Dreamday_Planner repository, into the wedding folder.
-5. Open phpmyadmin using this link http://localhost/phpmyadmin/ and create a database with name "wedding".
-6. Inside the project folder a file is wedding.sql is import in phpmyadmin inside wedding database.
-7. Check your project http://localhost/wedding/
-8. admin username :-admin and password : admin
+5. Start Xampp server and start apache and mysql.
+6. Open phpmyadmin using this link http://localhost/phpmyadmin/ and create a database with name "wedding".
+7. Inside the project folder a file is wedding.sql is import in phpmyadmin inside wedding database.
+8. Check your project http://localhost/wedding/
+9. admin username :-admin and password : admin
 
